@@ -15,7 +15,7 @@ const Navbar = () => {
             <a href="#" className='hover:font-bold'>Home</a>
             <a href="#" className='hover:font-bold'>About</a>
             <a href="#" className='hover:font-bold'>Contact</a>
-            <a href="">
+            <a href="https://github.com/cout-Tushar/Pass-OP-">
               <lord-icon
                 src="https://cdn.lordicon.com/jjxzcivr.json"
                 trigger="hover"
