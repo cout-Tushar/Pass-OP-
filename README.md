@@ -28,3 +28,7 @@ PassOp is a lightweight, React-based password manager that allows you to **secur
    ```bash
    git clone https://github.com/your-username/passop.git
    cd passop
+   npm install
+   npm start
+   http://localhost:3000
+
